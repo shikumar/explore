@@ -1,2 +1,2 @@
 # explore
-miscellaneous exploratory projects
+Experimenting to commit my trivial experimentation
